@@ -1,6 +1,7 @@
 # Clint Paul 😃
 Android Developer since 2016 | Kotlin Enthusiast | I do Blogging and Youtube videos on Kotlin and Android
- ## 🧐 About
+
+# 🧐 About
 I love building good quality software. I aim to create happiness for the users who are eventually using the software I’m creating, and also I enjoy secret pleasure in writing clean code. 
 
 I am very fortunate and lucky to become a software developer. I have no shame in admitting that. My career would have been somewhere else If I hadn’t got the taste of creation and innovation in developing software during my college days.
@@ -12,9 +13,10 @@ I try to give it back to the developer community as much as I can. Even if it is
 Good day to you. 
 
 
-💻 I’m currently working at: BestDoc, a health tech startup based in Kochi, India  
-🔨I’m currently working on: [JAWA - Just Another Weather App ](https://github.com/clint22/justAnotherWeatherApp). 
-📖 I’m currently learning: Unit testing in Android ( jUnit, Espresso, Robolectric, Mockito )  
+# 💻 I’m currently working at: BestDoc, a health tech startup based in Kochi, India  
+# 🔨I’m currently working on: [JAWA - Just Another Weather App ](https://github.com/clint22/justAnotherWeatherApp). 
+# 📖 I’m currently learning: Unit testing in Android ( jUnit, Espresso, Robolectric, Mockito )  
+
 ## 📫 Contact Me
 - Twitter - [@dev_duct_tape](https://twitter.com/dev_duct_tape)
 - LinkedIn - [Clint Paul](https://www.linkedin.com/in/clint-paul-2504bba7/)
