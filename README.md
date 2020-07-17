@@ -13,9 +13,9 @@ I try to give it back to the developer community as much as I can. Even if it is
 Good day to you. 
 
 
-# 💻 I’m currently working at: BestDoc, a health tech startup based in Kochi, India  
-# 🔨I’m currently working on: [JAWA - Just Another Weather App ](https://github.com/clint22/justAnotherWeatherApp). 
-# 📖 I’m currently learning: Unit testing in Android ( jUnit, Espresso, Robolectric, Mockito )  
+- 💻 I’m currently working at: BestDoc, a health tech startup based in Kochi, India  
+- 🔨I’m currently working on: [JAWA - Just Another Weather App ](https://github.com/clint22/justAnotherWeatherApp). 
+- 📖 I’m currently learning: Unit testing in Android ( jUnit, Espresso, Robolectric, Mockito )  
 
 ## 📫 Contact Me
 - Twitter - [@dev_duct_tape](https://twitter.com/dev_duct_tape)
