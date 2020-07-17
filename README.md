@@ -22,3 +22,4 @@ Good day to you.
 - LinkedIn - [Clint Paul](https://www.linkedin.com/in/clint-paul-2504bba7/)
 - Blog - [Duct tape programmer](https://ducttapeprogrammer.wordpress.com/)
 - Youtube - [Duct tape programmer](https://www.youtube.com/channel/UC6j-4K0IZbJvmwBB1J7B5-A)
+- Medium - [Clint Paul](https://medium.com/@clintpaul)
