@@ -1,4 +1,4 @@
-# Clint Paul 😃
+# Hi I'm Clint Paul 😃👋
 Android Developer since 2016 | Kotlin Enthusiast | I do Blogging and Youtube videos on Kotlin and Android
 
 # 🧐 About
