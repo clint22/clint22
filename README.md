@@ -32,6 +32,7 @@ Good day to you.
 - Payment Gateways ( Payu, RazorPay, Mosambee ) 
 - Android testing ( jUnit, Espresso, Robolectric, Mockito ) 
 
+## 💡 Current status 
 
 - 💻 I’m currently working at: [BestDoc](https://www.bestdocapp.com/), a health tech startup based in Kochi, India  
 - 🔨I’m currently working on: [JAWA - Just Another Weather App ](https://github.com/clint22/justAnotherWeatherApp). 
