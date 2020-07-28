@@ -12,6 +12,26 @@ I try to give it back to the developer community as much as I can. Even if it is
 
 Good day to you. 
 
+## ⚡ Technologies I worked on Android 
+
+- MVVM Architecture 
+- Room persistence library 
+- Coroutines 
+- Firebase ML Kit 
+- Amazon Rekognition 
+- Data Binding 
+- WorkManager 
+- LiveData 
+- CameraX 
+- Retrofit
+- Volley 
+- Gson 
+- Moshi 
+- Service Locator 
+- Google map and places 
+- Payment Gateways ( Payu, RazorPay, Mosambee ) 
+- Android testing ( jUnit, Espresso, Robolectric, Mockito ) 
+
 
 - 💻 I’m currently working at: [BestDoc](https://www.bestdocapp.com/), a health tech startup based in Kochi, India  
 - 🔨I’m currently working on: [JAWA - Just Another Weather App ](https://github.com/clint22/justAnotherWeatherApp). 
