@@ -31,6 +31,7 @@ Good day to you.
 - Google map and places 
 - Payment Gateways ( Payu, RazorPay, Mosambee ) 
 - Android testing ( jUnit, Espresso, Robolectric, Mockito ) 
+- Navigation Component
 
 ## 💡 Current status 
 
