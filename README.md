@@ -42,6 +42,6 @@ Good day to you.
 ## 📫 Contact Me
 - Twitter - [@dev_duct_tape](https://twitter.com/dev_duct_tape)
 - LinkedIn - [Clint Paul](https://www.linkedin.com/in/clint-paul-2504bba7/)
-- Blog - [Duct tape programmer](https://ducttapeprogrammer.wordpress.com/)
+- Blog - [Clint Paul Dev](https://clintpauldev.com/)
 - Youtube - [Duct tape programmer](https://www.youtube.com/channel/UC6j-4K0IZbJvmwBB1J7B5-A)
 - Medium - [Clint Paul](https://medium.com/@clintpaul)
