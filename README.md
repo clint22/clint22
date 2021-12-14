@@ -35,7 +35,7 @@ Good day to you.
 
 ## 💡 Current status 
 
-- 💻 I’m currently working at: [BestDoc](https://www.bestdocapp.com/), a health tech startup based in Kochi, India  
+- 💻 I’m currently working at: [Sharechat]  
 - 🔨I’m currently working on: [JAWA - Just Another Weather App ](https://github.com/clint22/justAnotherWeatherApp). 
 - 📖 I’m currently learning: Unit testing in Android ( jUnit, Espresso, Robolectric, Mockito )  
 
